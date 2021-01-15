@@ -93,9 +93,21 @@ Users can add new friends, find friends by searching their name or number and vi
 
 ---
 
+#### **Jan 2021 - Current - Software Engineer Sonitus Systems**
+
+I'm currently working on connecting IOT sensors to Sonitus' cloud with the MQTT communication protocol.
+
+Duties Included:
+
+- Researching different IOT communication protocols (MQTT, CoAP, AMQP) and deciding the most appropriate solution for us.
+- Researching the various IOT cloud solutions (AWS IOT, Azure IOT, Google Cloud IOT, IBM Watson IOT)
+- Creating clients using Python to receive messages from MQTT broker
+
+<br/>
+
 #### **Jan 2019 - July 2019 - MyComplianceOffice Business Analyst Intern**
 
-Duties Include :
+Duties Included :
 
 - Project management using Scrum
 - Product ownership
@@ -106,16 +118,6 @@ Duties Include :
 #### **July 2015 - Department of Agriculture - Video Production**
 
 I edited raw video footage to create a final video used to train veterinary surgeons to diagnose foot and mouth disease using adobe premiere pro.
-
-<br/>
-
-#### **June 2015 - August 2015 Tobar Stiofáin Teoranta (Pharmacy) - Video Sales Assistant**
-
-Duties Included :
-
-- Assisting and talking to customers on shop floor
-- Goods inwards, checking stock against invoices / delivery dockets
-- Organising and filing invoices
 
 ---
 
