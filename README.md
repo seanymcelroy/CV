@@ -6,7 +6,7 @@
 
 ---
 
-I am recent Graduate in Business Computing at TUD, receiving a First-Class Honours Degree. I have a keen interest in object-oriented programming. I am looking for a start in an exciting career in software development where I can add real value to the business.
+I am recent Graduate in Business Computing at TUD, receiving a First-Class Honours Degree. I have a keen interest in object-oriented programming. I am looking for an exciting role in software development where I can add real value to the business.
 
 ### Education
 
@@ -32,7 +32,7 @@ First class honours degree. Modules included:
 |       Problem Solving and Design        |         Supply Chain Management         | **Business Analyst Intern** |                                      |
 |                   ---                   |                   ---                   |             ---             |                 ---                  |
 |               Languages:                |               Languages:                |         Languages:          |              Languages:              |
-|           **Java, HTML, CSS**           |               **Java, C**               |      **Java, Python**       | **Java, JavaScript, SQL, CSS, HTML** |
+|           **Java, HTML, CSS**           |               **Java, C**               |    **Java, Python, SQL**    | **Java, JavaScript, SQL, CSS, HTML** |
 
 <br />
 <br />
@@ -95,13 +95,13 @@ Users can add new friends, find friends by searching their name or number and vi
 
 #### **Jan 2021 - Current - Software Engineer Sonitus Systems**
 
-I'm currently working on connecting IOT sensors to Sonitus' cloud with the MQTT communication protocol.
+I'm currently working on connecting IOT sensors to the Sonitus' cloud, this involves handling incoming MQTT messages, storing those messages in a database and displaying data to Sonitus staff with a user interface. I have also automated the user acceptance testing with Python.
 
 Duties Included:
 
 - Researching different IOT communication protocols (MQTT, CoAP, AMQP) and deciding the most appropriate solution for us.
 - Researching the various IOT cloud solutions (AWS IOT, Azure IOT, Google Cloud IOT, IBM Watson IOT)
-- Creating clients using Python to receive messages from MQTT broker
+- Creating MQTT clients using Python to receive messages from MQTT broker.
 
 <br/>
 
