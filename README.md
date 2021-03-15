@@ -66,7 +66,7 @@ The app allowed a patient to take a photo of their prescription and send it to a
 #### **MyMedicineManager - Technology Stack**
 
 - Pharmacy webapp - React JS
-- Patient Mobile Abb - Android Studio
+- Patient Mobile App - Android Java
 - Shared REST API - Spring Boot
 - Database - MySQL
 
