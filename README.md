@@ -46,7 +46,7 @@ Leaving Cert : 425 points
 
 ---
 
-- Programming languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java, JavaScript, Python, HTML, CSS, SQL, C.
+- Programming languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java, Python, Javascript, HTML, CSS, C, SQL.
 - Video Editing Packages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adobe Premiere Pro.
 - I have strong presentation skills, which have improved from my video editing and podcasting experience.
 - Working in groups, for projects in college and during my internship have enhanced my communication skills and ability to work in teams
