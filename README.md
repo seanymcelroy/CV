@@ -95,7 +95,7 @@ Users can add new friends, find friends by searching their name or number and vi
 
 #### **Jan 2021 - Current - Software Engineer Sonitus Systems**
 
-I'm currently working on connecting IOT sensors to the Sonitus' cloud, this involves handling incoming MQTT messages, storing those messages in a database and displaying data to Sonitus staff with a user interface. I have also automated the user acceptance testing with Python.
+I'm currently working on connecting IOT sensors to the Sonitus' cloud, this involves handling incoming MQTT messages, storing those messages in a NoSQL database and visualizing the data to Sonitus staff with Python libraries and a Jupyter notebook. I have also automated the user acceptance testing with Python.
 
 Duties Included:
 
