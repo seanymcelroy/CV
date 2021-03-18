@@ -63,7 +63,7 @@ This was an application available on both android and as a web app.
 The application was developed to improve the current experience getting prescription medication.
 The app allowed a patient to take a photo of their prescription and send it to a pharmacy of their choice. This pharmacy could then prepare the medication and update the status so the patient is able follow the status of their prescription and once the prescription was ready for pick up the patient would get a text notification. In addition to the technology stack given below, during my project I made use of: Scrum, JavaScript, Maven, Github, android studio, Firebase, Google Maps and Twilio.
 
-#### **MyMedicineManager - Technology Stack**
+#### **Technology Stack**
 
 - Pharmacy webapp - React JS
 - Patient Mobile App - Android Java
@@ -95,13 +95,7 @@ Users can add new friends, find friends by searching their name or number and vi
 
 #### **Jan 2021 - Current - Software Engineer Sonitus Systems**
 
-I'm currently working on connecting IOT sensors to the Sonitus' cloud, this involves handling incoming MQTT messages, storing those messages in a NoSQL database and visualizing the data to Sonitus staff with Python libraries and a Jupyter notebook. I have also automated the user acceptance testing with Python.
-
-Duties Included:
-
-- Researching different IOT communication protocols (MQTT, CoAP, AMQP) and deciding the most appropriate solution for us.
-- Researching the various IOT cloud solutions (AWS IOT, Azure IOT, Google Cloud IOT, IBM Watson IOT)
-- Creating MQTT clients using Python to receive messages from MQTT broker.
+I'm currently working on connecting IOT sensors to the Sonitus' cloud, this involves handling incoming MQTT messages, storing those messages in a NoSQL database, and visualizing the data to Sonitus staff with Python libraries and a Jupyter notebook. This has involved learning many AWS services to implement a serverless solution for IoT. I have also automated the user acceptance testing of the Sonitus web platform with Python.
 
 <br/>
 
@@ -138,7 +132,6 @@ I edited raw video footage to create a final video used to train veterinary surg
 
 #### Video Editing and Designing in general
 
-- Small amounts of changes have dramatic effects on the perception of content.
 - I enjoy learning new features in the adobe packages.
 
 <br/>
