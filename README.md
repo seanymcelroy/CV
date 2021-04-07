@@ -95,7 +95,7 @@ Users can add new friends, find friends by searching their name or number and vi
 
 #### **Jan 2021 - Current - Software Engineer Sonitus Systems**
 
-I'm currently working on connecting IOT sensors to the Sonitus' cloud, this involves handling incoming MQTT messages, storing those messages in a NoSQL database, and visualizing the data to Sonitus staff with Python libraries and a Jupyter notebook. This has involved learning many AWS services to implement a serverless solution for IoT. I have also automated the user acceptance testing of the Sonitus web platform with Python.
+I'm currently working on connecting IOT sensors to the Sonitus' cloud, this involves handling incoming MQTT messages, storing those messages in a NoSQL database, and visualizing the data to Sonitus staff with Python libraries and a Jupyter notebook. This has involved learning many AWS services to implement a serverless solution for IoT. I have also automated the user acceptance testing of the Sonitus web platform with Python and dockerised it, for easy setup for other members.
 
 <br/>
 
