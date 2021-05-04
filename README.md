@@ -38,7 +38,7 @@ First class honours degree. Modules included:
 <br />
 
 2010-2016 <p align="right">St Peters College Dunboyne</p>
-Leaving Cert : 425 points
+Leaving Cert : 425 points (Hons Math)
 
 <br />
 
@@ -46,8 +46,8 @@ Leaving Cert : 425 points
 
 ---
 
-- Programming languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java, Python, Javascript, HTML, CSS, C, SQL.
-- Video Editing Packages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adobe Premiere Pro.
+- Programming languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, Javascript, Java, C, HTML, CSS, SQL.
+- Design Software skills: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adobe Premiere Pro. Adobe XD
 - I have strong presentation skills, which have improved from my video editing and podcasting experience.
 - Working in groups, for projects in college and during my internship have enhanced my communication skills and ability to work in teams
 
@@ -72,17 +72,15 @@ The app allowed a patient to take a photo of their prescription and send it to a
 
 ---
 
-#### **PaConnorsGFC.com**
+#### **SeanyMcSnakeGame.ninja**
 
-This is a web application I developed for use by my friends. Was built with ReactJS, hosted by AWS Amplify. It is connected to firebase real-time database as well as Firebase Storage for storing images. The website contains player stats and stores planned events and has event countdown timer.
+This is a recreation of the first mobile phone game I ever played. I built this game using React JS as a web browser game. I was able to implement the game using a Linked List. This project improved my skills manipulating data structures as well using functional components with Hooks in React.
 
 ---
 
-#### **Friend Manager**
+#### **PaConnorsGFC.com**
 
-I made this application in java for Android.
-It allows user to store the names and numbers of friends in a list stored in an SQLite database.
-Users can add new friends, find friends by searching their name or number and view all friends in a recyclerview.
+This is a web application I developed for use by my friends. Was built with ReactJS, hosted by AWS Amplify. It is connected to firebase real-time database as well as Firebase Storage for storing images. The website contains player stats and stores planned events and has event countdown timer.
 
 ---
 
@@ -95,7 +93,7 @@ Users can add new friends, find friends by searching their name or number and vi
 
 #### **Jan 2021 - Current - Software Engineer Sonitus Systems**
 
-I'm currently working on connecting IOT sensors to the Sonitus' cloud, this involves handling incoming MQTT messages, storing those messages in a NoSQL database, and visualizing the data to Sonitus staff with Python libraries and a Jupyter notebook. This has involved learning many AWS services to implement a serverless solution for IoT. I have also automated the user acceptance testing of the Sonitus web platform with Python and dockerised it, for easy setup for other members.
+I'm currently working on connecting IOT sensors to the Sonitus' cloud, this involves handling incoming MQTT messages, storing those messages in a NoSQL database, and visualizing the data to Sonitus staff with Python libraries and a Jupyter notebook. This has involved learning many AWS services to implement a serverless solution for IoT. I have also automated the user acceptance testing of the Sonitus web platform with Python and deployed it DockerHub, for easy setup for other members.
 
 <br/>
 
